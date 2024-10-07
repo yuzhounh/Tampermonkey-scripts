@@ -38,6 +38,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 - 在页面右下角显示"Share to X"按钮。
 - 点击按钮后，弹出新标签页，添加评论（可选），点击"Post"按钮，即可分享消息。
 - 对 cnBeta、知乎等网站的标题进行特殊处理。
+- 自定义编码函数，按照 X 的编码方式直接处理 URL，而不是使用 encodeURIComponent，从而更快速地生成符合 X 要求的 URL，减少服务器端的处理时间。
 
 [安装脚本](https://greasyfork.org/zh-CN/scripts/511713-share-to-x)
 
