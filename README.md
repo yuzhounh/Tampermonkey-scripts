@@ -8,7 +8,18 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 ## 脚本列表
 
-### 1. 分享到饭否
+### 1. Copy or Share
+
+**描述**：将网页标题和 URL 复制到剪贴板或分享到饭否。
+
+**功能**：
+- 点击 Share 键，将页面分享至饭否。
+- 点击 Copy 键，复制页面标题和链接。
+- Shift + Ctrl + H，显示或者隐藏两个按钮。
+
+[安装脚本](https://greasyfork.org/zh-CN/scripts/539561-copy-or-share)
+
+### 2. 分享到饭否
 
 **描述**：快速将当前页面分享到饭否，并对标题进行自定义处理。
 
@@ -19,7 +30,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 [安装脚本](https://greasyfork.org/zh-CN/scripts/511322-%E5%88%86%E4%BA%AB%E5%88%B0%E9%A5%AD%E5%90%A6)
 
-### 2. 分享到微博
+### 3. 分享到微博
 
 **描述**：快速将当前页面分享到微博，并对标题进行自定义处理。
 
@@ -30,7 +41,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 [安装脚本](https://greasyfork.org/zh-CN/scripts/511328-%E5%88%86%E4%BA%AB%E5%88%B0%E5%BE%AE%E5%8D%9A)
 
-### 3. Share to X
+### 4. Share to X
 
 **描述**：快速将当前页面分享到 X，并对标题进行自定义处理。
 
@@ -42,7 +53,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 [安装脚本](https://greasyfork.org/zh-CN/scripts/511713-share-to-x)
 
-### 4. 收起 Felo Search 侧边栏
+### 5. 收起 Felo Search 侧边栏
 
 **描述**：启动 Felo Search 后自动收起侧边栏。
 
