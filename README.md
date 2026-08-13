@@ -2,7 +2,7 @@
 
 这个仓库包含了一系列 Tampermonkey 脚本，旨在提升您的浏览体验。
 
-**Greasy Fork**：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
+**Greasy Fork 个人主页**：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
 
 ## 什么是 Tampermonkey？
 
@@ -12,11 +12,13 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 ### 1. Copy Title & URL
 
-**描述**：将网页标题和 URL 复制到剪贴板。
+**描述**：在网页右下角显示一个低干扰的半透明 Copy 按钮。
 
 **功能**：
-- 点击 Copy 键，复制页面标题和链接。
-- Shift + Ctrl + H，显示或者隐藏按钮。
+- 左键：复制当前页面标题和网址
+- 右键：静默隐藏按钮，刷新页面后恢复
+- 无键盘快捷键
+- 自动适配浅色和深色界面
 
 [安装脚本](https://greasyfork.org/zh-CN/scripts/539561-copy-title-url)
 
@@ -79,7 +81,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 王敬：wangjing@xynu.edu.cn
 
-Greasy Fork：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
+Greasy Fork 个人主页：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
 
 项目链接：[https://github.com/yuzhounh/Tampermonkey-scripts](https://github.com/yuzhounh/Tampermonkey-scripts)
 
