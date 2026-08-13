@@ -2,22 +2,23 @@
 
 这个仓库包含了一系列 Tampermonkey 脚本，旨在提升您的浏览体验。
 
+**Greasy Fork**：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
+
 ## 什么是 Tampermonkey？
 
 Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩展，拥有超过1000万用户。它支持多种主流浏览器，包括 Chrome、Microsoft Edge、Firefox、Safari 和 Opera。Tampermonkey 允许用户自定义和增强网页功能，通过运行小型 JavaScript 程序（称为用户脚本）来实现 [^1]。
 
 ## 脚本列表
 
-### 1. Copy or Share
+### 1. Copy Title & URL
 
-**描述**：将网页标题和 URL 复制到剪贴板或分享到饭否。
+**描述**：将网页标题和 URL 复制到剪贴板。
 
 **功能**：
-- 点击 Share 键，将页面分享至饭否。
 - 点击 Copy 键，复制页面标题和链接。
-- Shift + Ctrl + H，显示或者隐藏两个按钮。
+- Shift + Ctrl + H，显示或者隐藏按钮。
 
-[安装脚本](https://greasyfork.org/zh-CN/scripts/539561-copy-or-share)
+[安装脚本](https://greasyfork.org/zh-CN/scripts/539561-copy-title-url)
 
 ### 2. 分享到饭否
 
@@ -78,6 +79,8 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 王敬：wangjing@xynu.edu.cn
 
-项目链接：[https://github.com/yuzhounh/tampermonkey-scripts](https://github.com/yuzhounh/tampermonkey-scripts)
+Greasy Fork：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
+
+项目链接：[https://github.com/yuzhounh/Tampermonkey-scripts](https://github.com/yuzhounh/Tampermonkey-scripts)
 
 [^1]: https://www.tampermonkey.net/index.php?locale=zh
