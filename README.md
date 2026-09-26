@@ -1,14 +1,18 @@
 # Tampermonkey 脚本集
 
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-D4A017.svg)](LICENSE)
+
 这个仓库包含了一系列 Tampermonkey 脚本，旨在提升您的浏览体验。
 
 **Greasy Fork 个人主页**：[yuzhounh](https://greasyfork.org/zh-CN/users/1376154-yuzhounh)
 
 ## 什么是 Tampermonkey？
 
-Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩展，拥有超过1000万用户。它支持多种主流浏览器，包括 Chrome、Microsoft Edge、Firefox、Safari 和 Opera。Tampermonkey 允许用户自定义和增强网页功能，通过运行小型 JavaScript 程序（称为用户脚本）来实现 [^1]。
+Tampermonkey（中文名：篡改猴）是用于运行用户脚本的浏览器扩展。它支持多种主流浏览器，包括 Chrome、Microsoft Edge、Firefox、Safari 和 Opera。Tampermonkey 允许用户自定义和增强网页功能，通过运行小型 JavaScript 程序（称为用户脚本）来实现 [^1]。
 
 ## 脚本列表
+
+当前仓库收录了 [Copy Title & URL 的源码](scripts/copy-title-url/copy-title-url.user.js)；其余脚本通过下方的 Greasy Fork 链接安装。
 
 ### 1. Copy Title & URL
 
@@ -75,7 +79,7 @@ Tampermonkey（中文名：篡改猴）是一个非常受欢迎的浏览器扩�
 
 ## 许可证
 
-本项目采用 GNU 通用公共许可证 v3.0 (GPL-3.0) 进行许可。
+本项目采用 [GNU 通用公共许可证 v3.0 (GPL-3.0)](LICENSE) 进行许可。
 
 ## 联系方式
 
