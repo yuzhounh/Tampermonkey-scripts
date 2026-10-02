@@ -1,6 +1,15 @@
-# Tampermonkey 脚本集
+# Tampermonkey Scripts · 油猴脚本集
 
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-D4A017.svg)](LICENSE)
+> 复制标题与链接、分享页面及调整网页交互的轻量脚本。
+
+<p>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-f59e0b?style=flat" alt="License: GPL-3.0"></a>
+  <img src="https://img.shields.io/badge/JavaScript-Browser-f7df1e?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript: Browser">
+</p>
+
+<p>
+  <a href="https://greasyfork.org/zh-CN/users/1376154-yuzhounh">安装脚本</a> · <a href="LICENSE">开源协议</a>
+</p>
 
 这个仓库包含了一系列 Tampermonkey 脚本，旨在提升您的浏览体验。
 
@@ -77,7 +86,7 @@ Tampermonkey（中文名：篡改猴）是用于运行用户脚本的浏览器�
 3. Tampermonkey 会自动检测到脚本并提示您安装。点击"安装"即可。
 4. 安装完成后，脚本会自动在相应的网页上运行。
 
-## 许可证
+## 开源协议
 
 本项目采用 [GNU 通用公共许可证 v3.0 (GPL-3.0)](LICENSE) 进行许可。
 
